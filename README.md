@@ -3,9 +3,7 @@
 🎯 **Jr. Data Scientist** | Business Valuation | Real Estate Valuation | BIM Architecture  
 
 ---
-![Banner](C:\Users\Pablo\Documents\Diseño CV\02 - Imagenes\JPG\RGB\WhatsApp Image 2025-11-05 at 11.14.24 PM.jpeg)
 
----
 ## 🧠 About Me  
 Architect turned **Data Scientist**, passionate about connecting logic, design, and data to solve real-world problems.  
 I’m an **adaptable**, **responsible**, and **analytical** professional with a **structured mindset**, eager to keep learning and growing.  
