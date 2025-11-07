@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm José Pablo Campos  
 
-<!--
-**jpcampos04/jpcampos04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Jr. Data Scientist** | Business Valuation | Real Estate Valuation | BIM Architecture  
 
-Here are some ideas to get you started:
+---
+![Banner](C:\Users\Pablo\Documents\Diseño CV\02 - Imagenes\JPG\RGB\WhatsApp Image 2025-11-05 at 11.14.24 PM.jpeg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🧠 About Me  
+Architect turned **Data Scientist**, passionate about connecting logic, design, and data to solve real-world problems.  
+I’m an **adaptable**, **responsible**, and **analytical** professional with a **structured mindset**, eager to keep learning and growing.  
+
+I love collaborating on **data-driven projects**, discovering insights, and transforming information into meaningful decisions.  
+Currently focused on developing my career as a **Jr. Data Scientist**, applying **Python**, **SQL**, and **machine learning** to business challenges.  
+
+---
+
+## 💻 Tech Stack  
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, CatBoost  
+- **Tools:** Jupyter Notebook, Git, Power BI, Excel  
+- **Concepts:** Machine Learning, Data Visualization, Data Cleaning, Business Analytics  
+
+---
+
+## 📫 Contact Me  
+📧 **Email:** [jpablocampos04@gmail.com](mailto:jpablocampos04@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/jpcampos04](https://www.linkedin.com/in/jpcampos04)   
+
+---
