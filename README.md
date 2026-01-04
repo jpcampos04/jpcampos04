@@ -9,7 +9,7 @@ Architect turned **Data Scientist**, passionate about connecting logic, design, 
 I’m an **adaptable**, **responsible**, and **analytical** professional with a **structured mindset**, eager to keep learning and growing.  
 
 I love collaborating on **data-driven projects**, discovering insights, and transforming information into meaningful decisions.  
-Currently focused on developing my career as a **Jr. Data Scientist**, applying **Python**, **SQL**, and **machine learning** to business challenges.  
+Currently focused on developing my career as a **Data Scientist**, applying **Python**, **SQL**, and **machine learning** to business challenges.  
 
 ---
 
