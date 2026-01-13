@@ -16,7 +16,7 @@ Currently focused on developing my career as a **Data Scientist**, applying **Py
 ## 💻 Tech Stack  
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, CatBoost  
-- **Tools:** Jupyter Notebook, Git, Power BI, Excel  
+- **Tools:** Jupyter Notebook, Git, Excel  
 - **Concepts:** Machine Learning, Data Visualization, Data Cleaning, Business Analytics  
 
 ---
