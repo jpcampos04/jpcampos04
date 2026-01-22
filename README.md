@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm an architect and am currently undergoing a pro
     />
   </a>
 
-  <a href="https://portfoliolu.vercel.app/" target="_blank">
+  <a href="https://sites.google.com/" target="_blank">
     <img 
-      src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=24292E&logoColor=white&style=for-the-badge" 
+      src="[https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=24292E&logoColor=white&style=for-the-badge](https://sites.google.com/view/jose-pablo-campos/home)" 
       height="35" 
       alt="Portfolio Jose Pablo Campos"
     />
