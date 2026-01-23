@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm an architect and am currently undergoing a pro
     />
   </a>
 
-  <a href="https://sites.google.com/" target="_blank">
+  <a href="https://sites.google.com/view/jose-pablo-campos?usp=sharing/" target="_blank">
     <img 
-      src="[https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=24292E&logoColor=white&style=for-the-badge](https://sites.google.com/view/jose-pablo-campos/home)" 
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=24292E&logoColor=white&style=for-the-badge" 
       height="35" 
       alt="Portfolio Jose Pablo Campos"
     />
@@ -45,34 +45,42 @@ Welcome to my GitHub profile! I'm an architect and am currently undergoing a pro
   </a>
 </div>
 
+<br clear="both">
 
+---
+## 🛠️ Technical Skills
 
-
-
-
-Throughout my career, I've worked in technical and analytical environments—architecture, BIM, valuation, and data projects—which has allowed me to develop a way of approaching challenges through observation, organization, and a deep understanding of the problems. I enjoy learning 📚, improving existing processes ⚙️, and transforming complex information into something clear, useful, and actionable 💡.
-
-🤝 I'm interested in continuing to develop in roles where I can learn by doing, collaborate with others, and contribute through rigorous analysis and continuous improvement, especially in contexts where the responsible use of data is key to generating value and making better decisions. I'm looking for opportunities in data analytics and data science 📈, in organizations or projects where I can continue to grow professionally, take on new challenges, and make consistent contributions.
-
-📩 If you think my profile could benefit your organization or project, please contact me at 📬:
-
-✉️ jpablocampos04@gmail.com
-💻 github.com/jpcampos04
-
-## 🧠 About Me  
-Architect turned **Data Scientist**, passionate about connecting logic, design, and data to solve real-world problems.  
-I’m an **adaptable**, **responsible**, and **analytical** professional with a **structured mindset**, eager to keep learning and growing.  
-
-I love collaborating on **data-driven projects**, discovering insights, and transforming information into meaningful decisions.  
-Currently focused on developing my career as a **Data Scientist**, applying **Python**, **SQL**, and **machine learning** to business challenges.  
+### Programming & Core Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
 ---
 
-## 💻 Tech Stack  
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, CatBoost  
-- **Tools:** Jupyter Notebook, Git, Excel  
-- **Concepts:** Machine Learning, Data Visualization, Data Cleaning, Business Analytics  
+### Machine Learning & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+
+---
+
+### Data Analysis & Visualization
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+---
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 
 ---
 
