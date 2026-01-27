@@ -1,6 +1,6 @@
 #  Hi everyone!!!👋, I'm Jose Pablo Campos  
 
-Welcome to my GitHub profile! I'm an architect and am currently undergoing a professional transition to Data Science, driven by my interest in analysis, information structuring, and the use of data to support impactful decisions.
+Welcome to my Github profile! I'm an architect currently looking to advance my career through Data Science, driven by my interest in analysis, structuring information, and using data to support impactful decisions.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an architect and am currently undergoing a pro
 
 📚 Continuously learning through projects, courses and real-world challenges
 
-📈 Background in Buisness & Real Estate Valution
+📈 Background in Buisness & Real Estate Valuation
 
 <!-- Este es un comentario en README.md -->
 <br clear="both">
