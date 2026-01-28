@@ -1,6 +1,7 @@
 #  Hi everyone!!!👋, I'm Jose Pablo Campos  
 
 Welcome to my Github profile! I'm an architect currently looking to boost my career supported by Data Science 📊, motivated by my interest in the analysis, structuring of information and the use of data to support decisions with real impact.
+
 ---
 
 🔍 About me
