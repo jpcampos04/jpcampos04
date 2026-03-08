@@ -28,7 +28,7 @@ Welcome to my Github profile! I'm an architect currently looking to boost my car
     />
   </a>
 
-  <a href="[https://sites.google.com/view/jose-pablo-campos?usp=sharing/](https://tedious-needs-969385.framer.app/)" target="_blank">
+  <a href="https://tedious-needs-969385.framer.app/" target="_blank">
     <img 
       src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=24292E&logoColor=white&style=for-the-badge" 
       height="35" 
