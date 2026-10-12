@@ -8,7 +8,7 @@ Welcome to my Github profile! I'm an architect currently looking to boost my car
 
 🌍 Based in Mexico City
 
-🏗️ Architect & 📊 Data Scientist
+📊 Data Scientist & 🏗️ Architect
 
 📚 Continuously learning through projects, courses and real-world challenges
 
